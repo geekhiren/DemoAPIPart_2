@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICallingPart_2", "APICallingPart_2\APICallingPart_2.csproj", "{6CD54997-015F-40B6-83B7-FDDEDC225EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD54997-015F-40B6-83B7-FDDEDC225EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD54997-015F-40B6-83B7-FDDEDC225EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD54997-015F-40B6-83B7-FDDEDC225EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD54997-015F-40B6-83B7-FDDEDC225EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE409D56-0F40-4F6A-ACFB-CC462C4E69D7}
+	EndGlobalSection
+EndGlobal
